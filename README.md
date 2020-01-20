@@ -10,4 +10,5 @@
 - [虛擬環境操作手冊](https://github.com/laiyenju/YenBlog/issues/5)
 
 ### Project 小專案
-- [【動手做】rgb2hex 顏色轉換器](https://github.com/laiyenju/YenBlog/issues/7) 👉 [【Make】 rgb2hex: RGB to Hex Color Code Tool](https://github.com/laiyenju/YenBlog/issues/6)
+- [【動手做】rgb2hex 顏色轉換器](https://github.com/laiyenju/YenBlog/issues/7) 👉 [【Make】 rgb2hex: RGB to Hex Color Code Tool](https://github.com/laiyenju/YenBlog/issues
+- [Emotion Box 小情緒杯墊](https://github.com/laiyenju/EmotionBox)
